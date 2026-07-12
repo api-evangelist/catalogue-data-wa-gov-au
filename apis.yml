@@ -41,6 +41,8 @@ apis:
       - type: x-api-endpoint
         url: https://catalogue.data.wa.gov.au/api/3/action/status_show
 common:
+  - type: DomainSecurity
+    url: security/catalogue-data-wa-gov-au-domain-security.yml
   - type: Website
     url: https://catalogue.data.wa.gov.au
   - type: Documentation
