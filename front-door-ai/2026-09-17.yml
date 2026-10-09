@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: catalogue.data.wa.gov.au
   final_host: data.wa.gov.au:443
-  ownership: inherited
+  ownership: own
   owner: catalogue-data-wa-gov-au
   shares_host_with: null
-  inherited_from: data.wa.gov.au
+  inherited_from: null
+  alias_of: data.wa.gov.au
   verdict: silent
-  score: null
+  score: 0
+  band: 1
+  band_label: silent
   host_score: 0
-  density: null
+  density: 0.0
   words: 232
   tiers:
     agentic: 0
